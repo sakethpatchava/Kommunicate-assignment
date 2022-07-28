@@ -1,0 +1,7 @@
+A System which helps the users to save their contacts.
+
+contact management system is a tool used to save our contacts. It contains all the records of the contacts that user want to save.
+we can add , delete , update contacts 
+Tools Used: Python, Tkinter, and Sqlite
+
+Github link : https://github.com/sakethpatchava/contact-management-system
